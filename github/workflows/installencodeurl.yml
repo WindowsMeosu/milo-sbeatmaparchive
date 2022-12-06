@@ -1,0 +1,8 @@
+name: install-encode-url
+on: [push, pull_request]
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    name: Build and deploy
+    steps:
+      - run: npm install @fralis/url-encoder
