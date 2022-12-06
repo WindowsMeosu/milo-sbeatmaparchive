@@ -5,5 +5,5 @@
 We are still unfinished with the site.
 <hr>
 <label for="progress">Progress:</label>
-<progress id="progress" max="100" value="0"> 0% </progress>
+<progress id="progress" max="100" value="5"> 5% </progress>
 
